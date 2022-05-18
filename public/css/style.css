@@ -1,0 +1,110 @@
+.navbar{
+    background: #F76C6C;
+    color: #24305E;
+}
+
+.banner {
+    background: #A8D0E6;
+    color: #24305E;
+    padding: 30px;
+    margin-top: 25px;
+    border-radius: 20px;
+}
+
+.navbar {
+    color: #A8D0E6;
+}
+
+.banner>h1 {
+    font-size: 50px;
+    /* font-weight: bold
+    text-align: center */
+}
+
+.banner>p{
+    font-size: 20px;
+    /* text-align: center */
+}
+
+.tombol-1{
+    background : #F76C6C;
+    color: #24305E;
+}
+
+.tombol-1:hover{
+    background :#24305E;
+    color: #F76C6C;
+}
+.tombol-2{
+    background : #F8E9A1;
+    color: #24305E;
+}
+
+.tombol-2:hover{
+    background : #24305E;
+    color: #F8E9A1;
+}
+
+.book-content{
+    background: #F8E9A1;
+    padding: 20px;
+    box-sizing: border-box; 
+    /* padding kkedalam */
+    
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.book-content>.judul{
+    font-size: 20px;
+    font-weight: bold;
+    /* margin-bottom: 20px; */
+}
+
+.book-content>.penulis{
+    font-size: 12px;
+    background: #F76C6C;
+    color:#374785;
+
+    /* font-weight: bold; */
+    /* margin-bottom: 20px; */
+}
+.book-content>.jumlah-halaman{
+    font-size: 15px;
+    /* font-weight: bold; */
+    
+}
+.book-content>.tahun-terbit{
+    font-size: 15px;
+    /* font-weight: bold; */
+    /* margin-bottom: 20px; */
+}
+
+.manage-wrapper{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: #A8D0E6;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+
+.navbar-brand{
+    font-weight: bold;
+}
+
+.book-content{
+    background: #A8D0E6;
+    color: #24305E;
+}
+
+.tombol-submit{
+    background: #F76C6C;
+    color: #24305E;
+}
+
+.tombol-submit:hover{
+    background: #24305E;
+    color:#F76C6C ;
+}
