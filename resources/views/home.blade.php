@@ -23,7 +23,7 @@
                 <div class="col-md-12 book-content">
                     <h1 class="judul">{{ $book->judul }}</h1> 
                     <span class="penulis badge">{{ $book->penulis }}</span>
-                    <p class="jumlah-halaman">Jumlah Halaman{{ $book->jumlah_halaman }}</p>
+                    <p class="jumlah-halaman">Jumlah Halaman : {{ $book->jumlah_halaman }}</p>
                     <span class="tahun_terbit">Tahun Terbit : {{ $book->tahun_terbit }}</span> 
                 </div>
             </div>
