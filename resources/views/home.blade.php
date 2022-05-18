@@ -8,8 +8,9 @@
         <h1>Hello!!</h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta possimus accusamus quibusdam non dolore recusandae magnam harum sapiente ad numquam? Sit, error magni? Hic sed eos, consectetur totam quia ipsa.</p>
         
-        <a href="" class="btn tombol-1">Collections</a>   
-        <a href="{{url('books/')}}" class="btn tombol-2">Add Book</a>   
+        
+        <a href="{{url('books/')}}" class="btn tombol-1">Collections</a>   
+        <a href="{{url('/books/create')}}" class="btn tombol-2">Add Book</a>  
 
     </div>
 
